@@ -9410,7 +9410,15 @@ textarea.form-control {
     margin-top: 1rem;
     margin-bottom: 1rem;
   }
-  
+
+#NameText{
+  font-size: 20px
+}
+
+#LocationText{
+  font-size: 18px
+}
+
   #BBBImg{
     height: 40vh;
   }
