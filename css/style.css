@@ -9400,12 +9400,24 @@ textarea.form-control {
     -ms-flex-align: center;
         align-items: center;
   }
+
+  #TestBox{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  #WinnersList{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
   
   #BBBImg{
     height: 40vh;
   }
-  
-
+  #Background2{
+  color: #ffffff;
+  background-color: #1b9ce3
+}
 @media (max-width: 767.98px) {
   .about-image {
     height: 400px;
