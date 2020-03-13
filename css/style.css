@@ -9368,6 +9368,10 @@ textarea.form-control {
     text-align: center;
   }
 
+  #LinkBlack{
+    color: black;
+  }
+
 #MagTitle{
   margin-top: 4rem;
 }
