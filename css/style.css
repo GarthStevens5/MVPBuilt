@@ -9372,6 +9372,10 @@ textarea.form-control {
     color: black;
   }
 
+  #NoMargin{
+    margin: 0% !important;
+  }
+
 #MagTitle{
   margin-top: 4rem;
 }
