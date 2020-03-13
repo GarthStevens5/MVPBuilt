@@ -9368,6 +9368,23 @@ textarea.form-control {
     text-align: center;
   }
 
+#MagTitle{
+  margin-top: 4rem;
+}
+
+.thumb{
+  outline: none !important;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.modal-body{
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+      justify-content: center;
+}
+
 .Winner{
   padding-top: 1rem;
   padding-bottom: 1rem;
