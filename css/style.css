@@ -9375,6 +9375,10 @@ textarea.form-control {
     margin-top: 2.5rem !important;
   }
 
+  #SmallMargin{
+    margin-top: 2rem !important;
+  }
+
 #MagTitle{
   margin-top: 4rem;
 }
