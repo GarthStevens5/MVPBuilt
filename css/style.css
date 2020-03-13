@@ -9353,7 +9353,6 @@ textarea.form-control {
   }
   
   #PromoCard{
-    height: 95vh;
     background-color: #ffffff
   }
   
@@ -9440,6 +9439,22 @@ textarea.form-control {
   #WinnersList{
     margin-top: 1rem;
     margin-bottom: 1rem;
+  }
+
+  #dimmed {
+    position: relative;
+  }
+  
+  #dimmed:after {
+    content: " ";
+    z-index: 10;
+    display: block;
+    position: absolute;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.5);
   }
 
 #NameText{
