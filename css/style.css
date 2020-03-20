@@ -9383,6 +9383,11 @@ textarea.form-control {
   margin-top: 4rem;
 }
 
+.owl-carousel.owl-drag .owl-item {
+	-ms-touch-action: pan-y;
+	touch-action: pan-y;
+}
+
 .thumb{
   outline: none !important;
   margin-top: 0px;
